@@ -1,4 +1,6 @@
 # OpenWebUI Clone - Streamlit App
+![image](https://github.com/user-attachments/assets/fc4393f3-84ef-4127-b88f-8e223aeff32a)
+
 
 This is a Streamlit application that mimics OpenWebUI, providing a chat interface for both local LLMs via Ollama and OpenAI's ChatGPT models.
 
